@@ -1,5 +1,4 @@
-# TelecomX_part_2
-# 📊 Predicción de Cancelación de Clientes - Telecom X
+# 📊 Challenge Telecom X Parte 2
 
 Este proyecto forma parte del desafío de ciencia de datos **Telecom X**, cuyo objetivo es **prever qué clientes tienen mayor probabilidad de cancelar sus servicios**. Se desarrolla un pipeline de machine learning desde la carga y limpieza de datos hasta la creación y evaluación de modelos predictivos, con visualizaciones e interpretaciones estratégicas.
 
@@ -89,4 +88,8 @@ Anticipar la cancelación de clientes mediante modelos de clasificación, identi
 - `README.md`: Este archivo.
 
 ---
+## :bow: Autor
 
+[<img src="https://github.com/user-attachments/assets/6d896183-be6e-4466-8d13-e4a21cad671b" width=115><br><sub>Máximo Hernández</sub>](https://github.com/maximo-he)
+
+Proyecto desarrollado para el challenge de Ciencia de Datos - Alura Latam - OracleONE G8
